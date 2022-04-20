@@ -20,3 +20,6 @@ object segmentation, image analysis, etc
 In My work, I have used CNN model for detecting healthy and unhealthy 
 seeds The parameters of the proposed model are optimized for the classification task 
 and obtained a good accuracy of 96.34% on training set and 86% for the test set.
+
+## Model Structure 
+![model](https://user-images.githubusercontent.com/73050746/164205410-1383f7d8-07b5-4665-88cf-4779648f4e29.png)
